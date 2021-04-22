@@ -1,0 +1,8 @@
+1615348309704	geckodriver	INFO	Listening on 127.0.0.1:54588
+1615348312767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofiletm7xcc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615348314904	Marionette	INFO	Listening on port 54599
+1615348314950	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 12620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615355490655	Marionette	INFO	Stopped listening on port 54599

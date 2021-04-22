@@ -1,0 +1,15 @@
+1615373941686	geckodriver	INFO	Listening on 127.0.0.1:54971
+1615373944779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileL4knNb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615373946983	Marionette	INFO	Listening on port 54984
+1615373947471	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014D,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+

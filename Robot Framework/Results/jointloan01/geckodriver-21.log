@@ -1,0 +1,38 @@
+1615367720146	geckodriver	INFO	Listening on 127.0.0.1:54437
+1615367723210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilePJWKvW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615367725311	Marionette	INFO	Listening on port 54448
+1615367725383	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error sending event: overflow-change"
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/inspector/utils.js", 132))
+TypeError: can't access dead object: standardTreeWalkerFilter@resource://devtools/server/actors/inspector/utils.js:132:5
+isSkippedNode@resource://devtools/server/actors/inspector/document-walker.js:217:17
+getStartingNode@resource://devtools/server/actors/inspector/document-walker.js:172:27
+DocumentWalker@resource://devtools/server/actors/inspector/document-walker.js:79:34
+getNonAnonymousDocumentWalker@resource://devtools/server/actors/inspector/walker.js:348:12
+rawParentNode@resource://devtools/server/actors/inspector/walker.js:697:27
+parentNode@resource://devtools/server/actors/inspector/walker.js:676:25
+form@resource://devtools/server/actors/inspector/node.js:160:36
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:583:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: (new Error("Resource \"server0.conn0.child3/source1005\" already exists, cannot insert {\"id\":\"server0.conn0.child3/source1005\",\"actor\":\"server0.conn0.child3/source1005\",\"thread\":\"server0.conn0.child3/thread22\",\"source\":\"sourceURL-http://portal.dev.getzense.com/dashboard\",\"isBlackBoxed\":false,\"sourceMapBaseURL\":\"http://portal.dev.getzense.com/dashboard\",\"sourceMapURL\":null,\"url\":\"http://portal.dev.getzense.com/dashboard\",\"introductionType\":\"scriptElement\",\"breakpointPositions\":{},\"breakableLines\":null}", "resource://devtools/client/debugger/src/utils/resource/core.js", 42))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615372363452	Marionette	INFO	Stopped listening on port 54448

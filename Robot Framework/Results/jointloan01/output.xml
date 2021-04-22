@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.9.2 on win32)" generated="20210318 16:41:24.960" rpa="false">
+<suite id="s1" name="Joint Loan Tests" source="C:\Users\nadth\PycharmProjects\pythonProject1\tests\functionaltests\joint_loan_tests.robot">
+<test id="s1-t1" name="Verify the login into the GetZense account">
+<kw name="Start Test Case" library="Login">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20210318 16:41:25.722" level="INFO">Opening browser 'Firefox' to base url 'http://portal.dev.getzense.com'.</msg>
+<msg timestamp="20210318 16:41:25.736" level="INFO">Firefox driver log is always forced to to: C:\Users\nadth\PycharmProjects\pythonProject1\results\jointloan01\geckodriver-60.log</msg>
+<status status="PASS" starttime="20210318 16:41:25.721" endtime="20210318 16:41:54.046"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3</arg>
+</arguments>
+<msg timestamp="20210318 16:41:57.058" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20210318 16:41:54.046" endtime="20210318 16:41:57.058"></status>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>link = Log in</arg>
+</arguments>
+<status status="PASS" starttime="20210318 16:41:57.058" endtime="20210318 16:41:57.134"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>link = Log in</arg>
+</arguments>
+<msg timestamp="20210318 16:41:57.134" level="INFO">Clicking element 'link = Log in'.</msg>
+<status status="PASS" starttime="20210318 16:41:57.134" endtime="20210318 16:42:14.028"></status>
+</kw>
+<status status="PASS" starttime="20210318 16:41:25.721" endtime="20210318 16:42:14.028"></status>
+</kw>
+<kw name="Verify Test Case" library="Login">
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3</arg>
+</arguments>
+<msg timestamp="20210318 16:42:17.041" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20210318 16:42:14.028" endtime="20210318 16:42:17.041"></status>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>id = email</arg>
+</arguments>
+<status status="PASS" starttime="20210318 16:42:17.041" endtime="20210318 16:42:17.071"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="email"]</arg>
+<arg>mhee@mail.com</arg>
+</arguments>
+<msg timestamp="20210318 16:42:17.072" level="INFO">Typing text 'mhee@mail.com' into text field '//*[@id="email"]'.</msg>
+<status status="PASS" starttime="20210318 16:42:17.072" endtime="20210318 16:42:17.112"></status>
+</kw>
+<kw name="Input Password" library="SeleniumLibrary">
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="password"]</arg>
+<arg>Mhee1234=</arg>
+</arguments>
+<msg timestamp="20210318 16:42:17.113" level="INFO">Typing password into text field '//*[@id="password"]'.</msg>
+<msg timestamp="20210318 16:42:17.118" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20210318 16:42:17.130" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20210318 16:42:17.113" endtime="20210318 16:42:17.130"></status>
+</kw>
+<kw name="Submit Form" library="SeleniumLibrary">
+<doc>Submits a form identified by ``locator``.</doc>
+<msg timestamp="20210318 16:42:17.131" level="INFO">Submitting form 'None'.</msg>
+<status status="PASS" starttime="20210318 16:42:17.131" endtime="20210318 16:42:17.144"></status>
+</kw>
+<status status="PASS" starttime="20210318 16:42:14.028" endtime="20210318 16:42:17.144"></status>
+</kw>
+<doc>Enter a valid email address and valid password</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="PASS" starttime="20210318 16:41:25.721" endtime="20210318 16:42:17.144" critical="yes"></status>
+</test>
+<test id="s1-t2" name="Borrower start to begin KYC">
+<kw name="Continue KYC" library="Dashhandler">
+<kw name="Wait Until Element Is Enabled" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is enabled.</doc>
+<arguments>
+<arg>link = Continue filling</arg>
+</arguments>
+<status status="PASS" starttime="20210318 16:42:17.147" endtime="20210318 16:42:19.377"></status>
+</kw>
+<kw name="Press Keys" library="SeleniumLibrary">
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<arguments>
+<arg>link = Continue filling</arg>
+<arg>[RETURN]</arg>
+</arguments>
+<msg timestamp="20210318 16:42:19.378" level="INFO">Sending key(s) ('[RETURN]',) to link = Continue filling element.</msg>
+<msg timestamp="20210318 16:42:19.685" level="INFO">Sending keys [RETURN]</msg>
+<status status="PASS" starttime="20210318 16:42:19.378" endtime="20210318 16:42:19.698"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20210318 16:42:20.699" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20210318 16:42:19.698" endtime="20210318 16:42:20.699"></status>
+</kw>
+<status status="PASS" starttime="20210318 16:42:17.146" endtime="20210318 16:42:20.700"></status>
+</kw>
+<doc>Borrower click wether to continue or start</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="PASS" starttime="20210318 16:42:17.146" endtime="20210318 16:42:20.701" critical="yes"></status>
+</test>
+<test id="s1-t3" name="Main borrower applies for a purchase individually.">
+<kw name="kyc.Type of Loan">
+<msg timestamp="20210318 16:42:20.708" level="FAIL">No keyword with name 'kyc.Type of Loan' found.</msg>
+<status status="FAIL" starttime="20210318 16:42:20.708" endtime="20210318 16:42:20.708"></status>
+</kw>
+<doc>Main borrower selects purchase, then individual loan</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:20.703" endtime="20210318 16:42:20.708" critical="yes">No keyword with name 'kyc.Type of Loan' found.</status>
+</test>
+<test id="s1-t4" name="Once the user has choosed a type of application they should provide their name.">
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20210318 16:42:21.711" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20210318 16:42:20.710" endtime="20210318 16:42:21.711"></status>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = kyc[first_name]</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:26.958" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-164.png"&gt;&lt;img src="selenium-screenshot-164.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:26.837" endtime="20210318 16:42:26.958"></status>
+</kw>
+<msg timestamp="20210318 16:42:26.992" level="FAIL">Element 'name = kyc[first_name]' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:21.712" endtime="20210318 16:42:26.992"></status>
+</kw>
+<doc>Main borrower input their name in</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:20.709" endtime="20210318 16:42:26.993" critical="yes">Element 'name = kyc[first_name]' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t5" name="Provide Birth Date">
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20210318 16:42:28.000" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20210318 16:42:26.996" endtime="20210318 16:42:28.000"></status>
+</kw>
+<kw name="Select random month">
+<assign>
+<var>${month}</var>
+</assign>
+<kw name="Random Element" library="FakerLibrary">
+<doc>Generate a randomly sampled object from ``elements``.</doc>
+<arguments>
+<arg>['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER']</arg>
+</arguments>
+<assign>
+<var>${randomValue}</var>
+</assign>
+<msg timestamp="20210318 16:42:28.001" level="INFO">${randomValue} = OCTOBER</msg>
+<status status="PASS" starttime="20210318 16:42:28.001" endtime="20210318 16:42:28.001"></status>
+</kw>
+<msg timestamp="20210318 16:42:28.001" level="INFO">${month} = OCTOBER</msg>
+<status status="PASS" starttime="20210318 16:42:28.000" endtime="20210318 16:42:28.001"></status>
+</kw>
+<kw name="Select From List By Value" library="SeleniumLibrary">
+<doc>Selects options from selection list ``locator`` by ``values``.</doc>
+<arguments>
+<arg>name= kyc[date_of_birth][0]</arg>
+<arg>${month}</arg>
+</arguments>
+<msg timestamp="20210318 16:42:28.002" level="INFO">Selecting options from selection list 'name= kyc[date_of_birth][0]' by value OCTOBER.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:28.103" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-165.png"&gt;&lt;img src="selenium-screenshot-165.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:28.005" endtime="20210318 16:42:28.103"></status>
+</kw>
+<msg timestamp="20210318 16:42:28.135" level="FAIL">List with locator 'name= kyc[date_of_birth][0]' not found.</msg>
+<status status="FAIL" starttime="20210318 16:42:28.002" endtime="20210318 16:42:28.135"></status>
+</kw>
+<doc>Main borrower input their birth date in</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:26.995" endtime="20210318 16:42:28.136" critical="yes">List with locator 'name= kyc[date_of_birth][0]' not found.</status>
+</test>
+<test id="s1-t6" name="Provide Gender">
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20210318 16:42:29.142" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20210318 16:42:28.140" endtime="20210318 16:42:29.142"></status>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = kyc[gender]</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:34.428" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-166.png"&gt;&lt;img src="selenium-screenshot-166.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:34.328" endtime="20210318 16:42:34.428"></status>
+</kw>
+<msg timestamp="20210318 16:42:34.428" level="FAIL">Element 'name = kyc[gender]' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:29.142" endtime="20210318 16:42:34.428"></status>
+</kw>
+<doc>Main borrower input their gender</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:28.138" endtime="20210318 16:42:34.429" critical="yes">Element 'name = kyc[gender]' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t7" name="Provide Dependent">
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<msg timestamp="20210318 16:42:35.445" level="INFO">Slept 1 second</msg>
+<status status="PASS" starttime="20210318 16:42:34.432" endtime="20210318 16:42:35.445"></status>
+</kw>
+<kw name="Select From List By Index" library="SeleniumLibrary">
+<doc>Selects options from selection list ``locator`` by ``indexes``.</doc>
+<arguments>
+<arg>name = kyc[dependents_number]</arg>
+<arg>0</arg>
+<arg>ElSE IF</arg>
+<arg>${dependent} == 2</arg>
+<arg>for</arg>
+<arg>${i}</arg>
+<arg>in</arg>
+<arg>${dependent}</arg>
+<arg>input text</arg>
+<arg>name = kyc[dependents_ages][${i}]</arg>
+<arg>${number}</arg>
+<arg>END</arg>
+<arg>ElSE IF</arg>
+<arg>${dependent} == 4</arg>
+<arg>select from list by value</arg>
+<arg>name = kyc[dependents_ages][0]</arg>
+<arg>${number}</arg>
+<arg>ElSE IF</arg>
+<arg>${dependent} == 4</arg>
+<arg>select from list by value</arg>
+<arg>name = kyc[dependents_ages][0]</arg>
+<arg>${number}</arg>
+<arg>ElSE IF</arg>
+<arg>${dependent} == 5</arg>
+<arg>select from list by value</arg>
+<arg>name = kyc[dependents_ages][0]</arg>
+<arg>${number}</arg>
+<arg>ElSE IF</arg>
+<arg>${dependent} == 6</arg>
+<arg>select from list by value</arg>
+<arg>name = kyc[dependents_ages][0]</arg>
+<arg>${number}</arg>
+<arg>ElSE</arg>
+<arg>${dependent} == 7+</arg>
+<arg>select from list by value</arg>
+<arg>name = kyc[dependents_ages][0]</arg>
+<arg>${number}</arg>
+</arguments>
+<msg timestamp="20210318 16:42:35.449" level="FAIL">Variable '${dependent}' not found.</msg>
+<status status="FAIL" starttime="20210318 16:42:35.446" endtime="20210318 16:42:35.449"></status>
+</kw>
+<doc>Main borrower input their dependent</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:34.431" endtime="20210318 16:42:35.449" critical="yes">Variable '${dependent}' not found.</status>
+</test>
+<test id="s1-t8" name="Provide Citizenship">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = kyc[citizenship]</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:40.767" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-167.png"&gt;&lt;img src="selenium-screenshot-167.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:40.666" endtime="20210318 16:42:40.767"></status>
+</kw>
+<msg timestamp="20210318 16:42:40.767" level="FAIL">Element 'name = kyc[citizenship]' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:35.452" endtime="20210318 16:42:40.767"></status>
+</kw>
+<doc>Main borrower input their gender</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210318 16:42:35.451" endtime="20210318 16:42:40.768" critical="yes">Element 'name = kyc[citizenship]' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t9" name="Provide Marital Status">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = kyc[marital_status]</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:45.883" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-168.png"&gt;&lt;img src="selenium-screenshot-168.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:45.777" endtime="20210318 16:42:45.883"></status>
+</kw>
+<msg timestamp="20210318 16:42:45.884" level="FAIL">Element 'name = kyc[marital_status]' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:40.771" endtime="20210318 16:42:45.884"></status>
+</kw>
+<status status="FAIL" starttime="20210318 16:42:40.770" endtime="20210318 16:42:45.884" critical="yes">Element 'name = kyc[marital_status]' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t10" name="Provide SSN">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = ssn_number</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:51.199" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-169.png"&gt;&lt;img src="selenium-screenshot-169.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:51.102" endtime="20210318 16:42:51.200"></status>
+</kw>
+<msg timestamp="20210318 16:42:51.200" level="FAIL">Element 'name = ssn_number' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:45.888" endtime="20210318 16:42:51.200"></status>
+</kw>
+<status status="FAIL" starttime="20210318 16:42:45.887" endtime="20210318 16:42:51.201" critical="yes">Element 'name = ssn_number' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t11" name="Provide phone number">
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<doc>Waits until the element ``locator`` is visible.</doc>
+<arguments>
+<arg>name = kyc[home_phone_number]</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210318 16:42:56.473" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-170.png"&gt;&lt;img src="selenium-screenshot-170.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210318 16:42:56.378" endtime="20210318 16:42:56.474"></status>
+</kw>
+<msg timestamp="20210318 16:42:56.474" level="FAIL">Element 'name = kyc[home_phone_number]' not visible after 5 seconds.</msg>
+<status status="FAIL" starttime="20210318 16:42:51.204" endtime="20210318 16:42:56.474"></status>
+</kw>
+<status status="FAIL" starttime="20210318 16:42:51.203" endtime="20210318 16:42:56.475" critical="yes">Element 'name = kyc[home_phone_number]' not visible after 5 seconds.</status>
+</test>
+<test id="s1-t12" name="Provide address">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks the button identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="kyc_next_button"]</arg>
+</arguments>
+<msg timestamp="20210318 16:42:56.477" level="INFO">Clicking button '//*[@id="kyc_next_button"]'.</msg>
+<status status="PASS" starttime="20210318 16:42:56.477" endtime="20210318 16:43:00.457"></status>
+</kw>
+<status status="PASS" starttime="20210318 16:42:56.476" endtime="20210318 16:43:00.457" critical="yes"></status>
+</test>
+<test id="s1-t13" name="Provide current address">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks the button identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="kyc_next_button"]</arg>
+</arguments>
+<msg timestamp="20210318 16:43:00.459" level="INFO">Clicking button '//*[@id="kyc_next_button"]'.</msg>
+<status status="PASS" starttime="20210318 16:43:00.459" endtime="20210318 16:43:10.869"></status>
+</kw>
+<status status="PASS" starttime="20210318 16:43:00.458" endtime="20210318 16:43:10.870" critical="yes"></status>
+</test>
+<doc>KYC Joint Loan</doc>
+<status status="FAIL" starttime="20210318 16:41:24.962" endtime="20210318 16:43:10.871"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="9">Critical Tests</stat>
+<stat pass="4" fail="9">All Tests</stat>
+</total>
+<tag>
+<stat pass="2" fail="6">Functional</stat>
+</tag>
+<suite>
+<stat pass="4" fail="9" id="s1" name="Joint Loan Tests">Joint Loan Tests</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20210318 16:41:25.715" level="ERROR">Error in file 'C:\Users\nadth\PycharmProjects\pythonProject1\Resources\PageObjects\Login.robot' on line 3: Importing test library 'SeleniumLinrary' failed: ModuleNotFoundError: No module named 'SeleniumLinrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\nadth\AppData\Local\Programs\Python\Python39\Scripts\robot.exe
+  c:\users\nadth\appdata\local\programs\python\python39\python39.zip
+  c:\users\nadth\appdata\local\programs\python\python39\DLLs
+  c:\users\nadth\appdata\local\programs\python\python39\lib
+  c:\users\nadth\appdata\local\programs\python\python39
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\win32
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\win32\lib
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\Pythonwin</msg>
+<msg timestamp="20210318 16:41:25.719" level="ERROR">Error in file 'C:\Users\nadth\PycharmProjects\pythonProject1\Resources\PageObjects\Dashhandler.robot' on line 3: Importing test library 'SeleniumLinrary' failed: ModuleNotFoundError: No module named 'SeleniumLinrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\nadth\AppData\Local\Programs\Python\Python39\Scripts\robot.exe
+  c:\users\nadth\appdata\local\programs\python\python39\python39.zip
+  c:\users\nadth\appdata\local\programs\python\python39\DLLs
+  c:\users\nadth\appdata\local\programs\python\python39\lib
+  c:\users\nadth\appdata\local\programs\python\python39
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\win32
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\win32\lib
+  c:\users\nadth\appdata\local\programs\python\python39\lib\site-packages\Pythonwin</msg>
+</errors>
+</robot>

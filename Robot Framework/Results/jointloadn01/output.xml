@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.9.2 on win32)" generated="20210305 10:47:41.178" rpa="false">
+<suite id="s1" name="01" source="C:\Users\nadth\PycharmProjects\pythonProject1\Tests\FunctionalTests\Mainborrower_Jointloan\01.robot">
+<test id="s1-t1" name="Main borrower applies for a purchase individually.">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20210305 10:47:41.333" level="INFO">Opening browser 'Firefox' to base url 'http://portal.dev.getzense.com/'.</msg>
+<msg timestamp="20210305 10:47:41.340" level="INFO">Firefox driver log is always forced to to: C:\Users\nadth\PycharmProjects\pythonProject1\results\jointloadn01\geckodriver-1.log</msg>
+<status status="PASS" starttime="20210305 10:47:41.332" endtime="20210305 10:48:03.950"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="app"]/header/nav/ul/li[7]/a</arg>
+</arguments>
+<msg timestamp="20210305 10:48:03.951" level="INFO">Clicking element '//*[@id="app"]/header/nav/ul/li[7]/a'.</msg>
+<status status="PASS" starttime="20210305 10:48:03.951" endtime="20210305 10:48:09.540"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="email"]</arg>
+<arg>mhee@mail.com</arg>
+</arguments>
+<msg timestamp="20210305 10:48:09.540" level="INFO">Typing text 'mhee@mail.com' into text field '//*[@id="email"]'.</msg>
+<status status="PASS" starttime="20210305 10:48:09.540" endtime="20210305 10:48:09.568"></status>
+</kw>
+<kw name="Input Password" library="SeleniumLibrary">
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="password"]</arg>
+<arg>Mhee1234=</arg>
+</arguments>
+<msg timestamp="20210305 10:48:09.569" level="INFO">Typing password into text field '//*[@id="password"]'.</msg>
+<msg timestamp="20210305 10:48:09.574" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20210305 10:48:09.587" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20210305 10:48:09.569" endtime="20210305 10:48:09.587"></status>
+</kw>
+<kw name="Submit Form" library="SeleniumLibrary">
+<doc>Submits a form identified by ``locator``.</doc>
+<msg timestamp="20210305 10:48:09.587" level="INFO">Submitting form 'None'.</msg>
+<status status="PASS" starttime="20210305 10:48:09.587" endtime="20210305 10:48:09.602"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>//*[@id="content"]/div/div/div[2]/div/div[2]/a</arg>
+</arguments>
+<msg timestamp="20210305 10:48:09.602" level="INFO">Clicking element '//*[@id="content"]/div/div/div[2]/div/div[2]/a'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210305 10:48:09.722" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-1.png"&gt;&lt;img src="selenium-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20210305 10:48:09.605" endtime="20210305 10:48:09.722"></status>
+</kw>
+<msg timestamp="20210305 10:48:09.769" level="FAIL">Element with locator '//*[@id="content"]/div/div/div[2]/div/div[2]/a' not found.</msg>
+<status status="FAIL" starttime="20210305 10:48:09.602" endtime="20210305 10:48:09.769"></status>
+</kw>
+<doc>Main borrower selects purchase, then individual loan</doc>
+<tags>
+<tag>Functional</tag>
+</tags>
+<status status="FAIL" starttime="20210305 10:47:41.332" endtime="20210305 10:48:09.770" critical="yes">Element with locator '//*[@id="content"]/div/div/div[2]/div/div[2]/a' not found.</status>
+</test>
+<doc>KYC Joint Loan</doc>
+<status status="FAIL" starttime="20210305 10:47:41.179" endtime="20210305 10:48:09.772"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1">Functional</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="01">01</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
