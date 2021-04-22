@@ -1,8 +1,0 @@
-1615371275983	geckodriver	INFO	Listening on 127.0.0.1:51589
-1615371279057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile7iXC3T"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1615371281821	Marionette	INFO	Listening on port 51600
-1615371282249	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
-console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1615372366620	Marionette	INFO	Stopped listening on port 51600

@@ -1,9 +1,0 @@
-1615194446619	geckodriver	INFO	Listening on 127.0.0.1:50336
-1615194449664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile4eO2AD"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1615194451654	Marionette	INFO	Listening on port 50351
-1615194451728	Marionette	WARN	TLS certificate errors will be ignored for this session
-1615194533968	Marionette	INFO	Stopped listening on port 50351
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-

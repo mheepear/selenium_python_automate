@@ -1,8 +1,0 @@
-1614931214321	geckodriver	INFO	Listening on 127.0.0.1:52085
-1614931217383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilekw1H96"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1614931219511	Marionette	INFO	Listening on port 52097
-1614931219558	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://devtools/client/framework/toolbox.js, line 1936: TypeError: currentPanel is undefined
-[Parent 17120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
-1614934854751	Marionette	INFO	Stopped listening on port 52097
