@@ -2,5 +2,7 @@
 This is part of my intern project
 Automate testing
 The scripts are seperated into 6 cases test data
-Nadthapon SUkeewadthana
+
+
+Nadthapon Sukeewadthana
 Python -- Selenium
