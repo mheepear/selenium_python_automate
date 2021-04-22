@@ -1,0 +1,18 @@
+1615368675731	geckodriver	INFO	Listening on 127.0.0.1:55345
+1615368678761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile2JNtyD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615368680934	Marionette	INFO	Listening on port 55354
+1615368681440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1615372363563	Marionette	INFO	Stopped listening on port 55354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
