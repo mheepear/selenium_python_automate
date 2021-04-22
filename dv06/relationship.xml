@@ -1,0 +1,92 @@
+<RELATIONSHIPS>
+
+<RELATIONSHIP xlink:from="CURRENT_INCOME_ITEM_1" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP xlink:from="CURRENT_INCOME_ITEM_2" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP xlink:from="CURRENT_INCOME_ITEM_3" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP xlink:from="ASSET_1" xlink:to="BORROWER_1"/>
+    <ASSET SequenceNumber="1" xlink:label="ASSET_1">
+    <ASSET_DETAIL>
+        <AssetAccountIdentifier>9018</AssetAccountIdentifier>
+        <AssetCashOrMarketValueAmount>20000</AssetCashOrMarketValueAmount>
+        <AssetType>SavingsAccount</AssetType>
+    </ASSET_DETAIL>
+    <ASSET_HOLDER>
+        <NAME>
+            <FullName>FinBank Profiles - A</FullName>
+        </NAME>
+<RELATIONSHIP xlink:from="ASSET_2" xlink:to="BORROWER_1"/>
+<ASSET SequenceNumber="2" xlink:label="ASSET_2">
+    <ASSET_DETAIL>
+        <AssetAccountIdentifier>109023</AssetAccountIdentifier>
+        <AssetCashOrMarketValueAmount>36000</AssetCashOrMarketValueAmount>
+        <AssetType>CheckingAccount</AssetType>
+    </ASSET_DETAIL>
+    <ASSET_HOLDER>
+        <NAME>
+            <FullName>Dag Site</FullName>
+        </NAME>
+    </ASSET_HOLDER>
+<RELATIONSHIP xlink:from="ASSET_3" xlink:to="BORROWER_1"/>
+<ASSET SequenceNumber="3" xlink:label="ASSET_3">
+    <ASSET_DETAIL>
+        <AssetAccountIdentifier>852147</AssetAccountIdentifier>
+        <AssetCashOrMarketValueAmount>110000</AssetCashOrMarketValueAmount>
+        <AssetType>MoneyMarketFund</AssetType>
+    </ASSET_DETAIL>
+    <ASSET_HOLDER>
+        <NAME>
+            <FullName>Penfed</FullName>
+        </NAME>
+    </ASSET_HOLDER>
+
+<RELATIONSHIP xlink:from="LIABILITY_1" xlink:to="BORROWER_1"/>
+<LIABILITY SequenceNumber="1" xlink:label="LIABILITY_1">
+    <LIABILITY_DETAIL>
+        <LiabilityAccountIdentifier>87615524</LiabilityAccountIdentifier>
+        <LiabilityExclusionIndicator>false</LiabilityExclusionIndicator>
+        <LiabilityMonthlyPaymentAmount>46</LiabilityMonthlyPaymentAmount>
+        <LiabilityPayoffStatusIndicator>false</LiabilityPayoffStatusIndicator>
+        <LiabilityType>Installment</LiabilityType>
+        <LiabilityUnpaidBalanceAmount>1554</LiabilityUnpaidBalanceAmount>
+    </LIABILITY_DETAIL>
+    <LIABILITY_HOLDER>
+        <NAME>
+            <FullName>Relentless Bank</FullName>
+        </NAME>
+    </LIABILITY_HOLDER>
+<RELATIONSHIP xlink:from="LIABILITY_2" xlink:to="BORROWER_1"/>
+<LIABILITY SequenceNumber="2" xlink:label="LIABILITY_2">
+    <LIABILITY_DETAIL>
+        <LiabilityAccountIdentifier>7612121</LiabilityAccountIdentifier>
+        <LiabilityExclusionIndicator>false</LiabilityExclusionIndicator>
+        <LiabilityMonthlyPaymentAmount>27</LiabilityMonthlyPaymentAmount>
+        <LiabilityPayoffStatusIndicator>false</LiabilityPayoffStatusIndicator>
+        <LiabilityType>Revolving</LiabilityType>
+        <LiabilityUnpaidBalanceAmount>1357</LiabilityUnpaidBalanceAmount>
+    </LIABILITY_DETAIL>
+    <LIABILITY_HOLDER>
+        <NAME>
+            <FullName>Bursting Credit</FullName>
+        </NAME>
+    </LIABILITY_HOLDER>
+<RELATIONSHIP xlink:from="LIABILITY_3" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="LIABILITY_4" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="LIABILITY_5" xlink:to="BORROWER_1"/>
+
+<RELATIONSHIP xlink:from="ASSET_1" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_2" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_3" xlink:to="BORROWER_2"/>
+
+<RELATIONSHIP SequenceNumber="8" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_1" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="10" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_2" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="13" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_4" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="15" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_5" xlink:to="BORROWER_2"/>
+
+
+<RELATIONSHIP SequenceNumber="19" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_4" xlink:to="EMPLOYER_2"/>
+<RELATIONSHIP SequenceNumber="20" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_5" xlink:to="EMPLOYER_2"/>
+
+
+<RELATIONSHIP SequenceNumber="21" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_1" xlink:to="SERVICE_1"/>
+<RELATIONSHIP SequenceNumber="22" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_2" xlink:to="SERVICE_1"/>
+</RELATIONSHIPS>

@@ -1,0 +1,50 @@
+<RELATIONSHIPS>
+<RELATIONSHIP xlink:from="ASSET_1" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_2" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_4" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_5" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_7" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_8" xlink:to="BORROWER_1"/>
+<RELATIONSHIP xlink:from="ASSET_9" xlink:to="BORROWER_1"/>
+
+<RELATIONSHIP xlink:from="ASSET_2" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_3" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_5" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_6" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_8" xlink:to="BORROWER_2"/>
+<RELATIONSHIP xlink:from="ASSET_9" xlink:to="BORROWER_2"/>
+
+<RELATIONSHIP SequenceNumber="14" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_LIABILITY" xlink:from="ASSET_9" xlink:to="LIABILITY_1"/>
+<RELATIONSHIP SequenceNumber="15" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_LIABILITY" xlink:from="ASSET_9" xlink:to="LIABILITY_3"/>
+<RELATIONSHIP SequenceNumber="16" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_LIABILITY" xlink:from="ASSET_8" xlink:to="LIABILITY_2"/>
+<RELATIONSHIP SequenceNumber="17" xlink:arcrole="urn:fdc:mismo.org:2009:residential/EXPENSE_IsAssociatedWith_ROLE" xlink:from="EXPENSE_1" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="18" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_1" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="19" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_2" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="21" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_3" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="23" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_4" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="34" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_5" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="25" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_6" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="27" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_7" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="28" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_8" xlink:to="BORROWER_1"/>
+<RELATIONSHIP SequenceNumber="30" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_9" xlink:to="BORROWER_1"/>
+
+
+<RELATIONSHIP SequenceNumber="20" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_2" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="22" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_3" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="26" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_6" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="29" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_9" xlink:to="BORROWER_2"/>
+<RELATIONSHIP SequenceNumber="31" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_9" xlink:to="BORROWER_2"/>
+
+<RELATIONSHIP SequenceNumber="32" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_1" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP SequenceNumber="33" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_2" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP SequenceNumber="34" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_3" xlink:to="EMPLOYER_1"/>
+<RELATIONSHIP SequenceNumber="35" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_5" xlink:to="EMPLOYER_4"/>
+<RELATIONSHIP SequenceNumber="36" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_6" xlink:to="EMPLOYER_4"/>
+<RELATIONSHIP SequenceNumber="37" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_7" xlink:to="EMPLOYER_4"/>
+<RELATIONSHIP SequenceNumber="38" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_8" xlink:to="EMPLOYER_4"/>
+
+<RELATIONSHIP SequenceNumber="39" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_1" xlink:to="SERVICE_1"/>
+<RELATIONSHIP SequenceNumber="40" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_2" xlink:to="SERVICE_1"/>
+<RELATIONSHIP SequenceNumber="41" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_1" xlink:to="SERVICE_4"/>
+<RELATIONSHIP SequenceNumber="42" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_2" xlink:to="SERVICE_5"/>
+</RELATIONSHIPS>

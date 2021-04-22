@@ -1,0 +1,1176 @@
+1617156105250	geckodriver	INFO	Listening on 127.0.0.1:58888
+1617156108336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileoRoWFb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617156110950	Marionette	INFO	Listening on port 58900
+1617156111013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617156140082	Marionette	INFO	Stopped listening on port 58900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617156178767	geckodriver	INFO	Listening on 127.0.0.1:59030
+1617156181869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileCvHUMn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617156184127	Marionette	INFO	Listening on port 59040
+1617156184562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.hotjar.com/c/hotjar-1511557.js?sv=6, line 3: NS_ERROR_NOT_INITIALIZED: 
+1617156214462	Marionette	INFO	Stopped listening on port 59040
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617156230134	geckodriver	INFO	Listening on 127.0.0.1:59166
+1617156233218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileUSGgAg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617156235482	Marionette	INFO	Listening on port 59176
+1617156235891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617156265772	Marionette	INFO	Stopped listening on port 59176
+1617157315005	geckodriver	INFO	Listening on 127.0.0.1:59953
+1617157318068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilepf7SsT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617157320400	Marionette	INFO	Listening on port 59964
+1617157320753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617157349691	Marionette	INFO	Stopped listening on port 59964
+1617176810161	geckodriver	INFO	Listening on 127.0.0.1:60202
+1617176813227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileiur4jW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617176815493	Marionette	INFO	Listening on port 60215
+1617176815896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617176843198	Marionette	INFO	Stopped listening on port 60215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617177404008	geckodriver	INFO	Listening on 127.0.0.1:60779
+1617177407070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileYlq8k3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617177409225	Marionette	INFO	Listening on port 60790
+1617177409740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617177433637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617177439490	Marionette	INFO	Stopped listening on port 60790
+1617178293973	geckodriver	INFO	Listening on 127.0.0.1:61584
+1617178297021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileRjpXLH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617178299008	Marionette	INFO	Listening on port 61600
+1617178299069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617178327185	Marionette	INFO	Stopped listening on port 61600
+JavaScript error: https://static.hotjar.com/c/hotjar-1511557.js?sv=6, line 3: NS_ERROR_NOT_INITIALIZED: 
+1617178349160	geckodriver	INFO	Listening on 127.0.0.1:61754
+1617178352216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileqf9x5Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617178354317	Marionette	INFO	Listening on port 61766
+1617178354384	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617180186373	Marionette	INFO	Stopped listening on port 61766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileG3VUiR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617178476167	Marionette	INFO	Listening on port 61985
+1617178476317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617178503834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617180185544	Marionette	INFO	Stopped listening on port 61985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile16tMif"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617179096420	Marionette	INFO	Listening on port 62702
+1617179096473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617179123946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1617179441026	Marionette	INFO	Stopped listening on port 62702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617179447066	geckodriver	INFO	Listening on 127.0.0.1:63110
+1617179450117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile0PFORQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617179452109	Marionette	INFO	Listening on port 63122
+1617179452162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617179473889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617180184751	Marionette	INFO	Stopped listening on port 63122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileIsmrwZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617180084870	Marionette	INFO	Listening on port 59475
+1617180084910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617180109423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617180183745	Marionette	INFO	Stopped listening on port 59475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilezLHUVX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617180175495	Marionette	INFO	Listening on port 59663
+1617180176014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617180206109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617180434478	Marionette	INFO	Stopped listening on port 59663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileLjtS8A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617180435782	Marionette	INFO	Listening on port 60004
+1617180435913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617180462624	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617180683605	Marionette	INFO	Stopped listening on port 60004
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile7CiM9L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617180499310	Marionette	INFO	Listening on port 52667
+1617180499668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617180525422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617180674155	Marionette	INFO	Stopped listening on port 52667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617180681201	geckodriver	INFO	Listening on 127.0.0.1:53214
+1617180684251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile9CCXDK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617180686371	Marionette	INFO	Listening on port 53232
+1617180686406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617180719215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 18684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1617181036125	Marionette	INFO	Stopped listening on port 53232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617181038454	geckodriver	INFO	Listening on 127.0.0.1:53941
+1617181041532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilesU9rGb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617181043776	Marionette	INFO	Listening on port 53953
+1617181044196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617181070614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617181616048	Marionette	INFO	Stopped listening on port 53953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileBAguK9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617181209845	Marionette	INFO	Listening on port 54303
+1617181209865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617181237250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617181617208	Marionette	INFO	Stopped listening on port 54303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileiNxUfC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617181300040	Marionette	INFO	Listening on port 54545
+1617181300362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617181327733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617181620528	Marionette	INFO	Stopped listening on port 54545
+1617181623787	geckodriver	INFO	Listening on 127.0.0.1:55071
+1617181626835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile9JmXHO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617181628996	Marionette	INFO	Listening on port 55083
+1617181629495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617181655450	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617183216525	Marionette	INFO	Stopped listening on port 55083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilesz2nOd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182044802	Marionette	INFO	Listening on port 55971
+1617182045192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182069358	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617182105508	Marionette	INFO	Stopped listening on port 55971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617182107512	geckodriver	INFO	Listening on 127.0.0.1:56167
+1617182110580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileL12S1O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182112699	Marionette	INFO	Listening on port 56180
+1617182112736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182134308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617183217790	Marionette	INFO	Stopped listening on port 56180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilejZ9JoE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182419303	Marionette	INFO	Listening on port 56570
+1617182419336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182445256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617182471525	Marionette	INFO	Stopped listening on port 56570
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617182473240	geckodriver	INFO	Listening on 127.0.0.1:56747
+1617182476321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileTZTvHM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182478308	Marionette	INFO	Listening on port 56760
+1617182478377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182499488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617182532270	Marionette	INFO	Stopped listening on port 56760
+1617182541423	geckodriver	INFO	Listening on 127.0.0.1:57132
+1617182544465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile8H8eto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182546607	Marionette	INFO	Listening on port 57142
+1617182546634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182573721	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617183218729	Marionette	INFO	Stopped listening on port 57142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileIGDSuE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182626317	Marionette	INFO	Listening on port 57358
+1617182626750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182657961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617182736644	Marionette	INFO	Stopped listening on port 57358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617182739945	geckodriver	INFO	Listening on 127.0.0.1:57600
+1617182743014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilejHUJ56"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182745021	Marionette	INFO	Listening on port 57612
+1617182745070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182770760	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617182812179	Marionette	INFO	Stopped listening on port 57612
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617182814666	geckodriver	INFO	Listening on 127.0.0.1:57775
+1617182817742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilexINkfg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182819566	Marionette	INFO	Listening on port 57786
+1617182819795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182842876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker26, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:114:18\nstop@resource://devtools/client/inspector/node-picker.js:174:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3718:24\ndestroy@resource://devtools/client/framework/toolbox.js:3652:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3628:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 99))
+1617182960500	Marionette	INFO	Stopped listening on port 57786
+1617182963164	geckodriver	INFO	Listening on 127.0.0.1:58017
+1617182966227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilez8i14i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617182968189	Marionette	INFO	Listening on port 58029
+1617182968278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617182992071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617183073710	Marionette	INFO	Stopped listening on port 58029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617183076730	geckodriver	INFO	Listening on 127.0.0.1:58240
+1617183079801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile7traCX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183081990	Marionette	INFO	Listening on port 58254
+1617183082469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183106880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617183195936	Marionette	INFO	Stopped listening on port 58254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617183199036	geckodriver	INFO	Listening on 127.0.0.1:58451
+1617183202124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileA2xlkE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183204157	Marionette	INFO	Listening on port 58463
+1617183204181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183232236	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617184710130	Marionette	INFO	Stopped listening on port 58463
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileazlqVG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183450556	Marionette	INFO	Listening on port 58794
+1617183450620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183480048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617183506585	Marionette	INFO	Stopped listening on port 58794
+1617183528820	geckodriver	INFO	Listening on 127.0.0.1:58972
+1617183531895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileKiMzFv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183533966	Marionette	INFO	Listening on port 58984
+1617183534050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183560509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617184711480	Marionette	INFO	Stopped listening on port 58984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilePqgMnT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183736349	Marionette	INFO	Listening on port 59263
+1617183736682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183766191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:331:29
+
+1617183779340	Marionette	INFO	Stopped listening on port 59263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617183782243	geckodriver	INFO	Listening on 127.0.0.1:59415
+1617183785332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileRjyh4L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183787366	Marionette	INFO	Listening on port 59425
+1617183787393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183812518	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617183950304	Marionette	INFO	Stopped listening on port 59425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617183951716	geckodriver	INFO	Listening on 127.0.0.1:59667
+1617183954779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileFlGZvS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617183956811	Marionette	INFO	Listening on port 59682
+1617183956839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617183984391	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child3/domnode237, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1617184712717	Marionette	INFO	Stopped listening on port 59682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+MContentLoaded' because document has an invalid readyState of 'complete'.
+1617184236078	Marionette	INFO	Stopped listening on port 60113
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617184238641	geckodriver	INFO	Listening on 127.0.0.1:60291
+1617184241685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile1MbG7S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184243715	Marionette	INFO	Listening on port 60304
+1617184243738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184265945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1617184358165	Marionette	INFO	Stopped listening on port 60304
+1617184361227	geckodriver	INFO	Listening on 127.0.0.1:60561
+1617184364295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilevhG0mE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184366347	Marionette	INFO	Listening on port 60573
+1617184366454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184392939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617184648791	Marionette	INFO	Stopped listening on port 60573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617184652292	geckodriver	INFO	Listening on 127.0.0.1:60941
+1617184655332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilens5D7n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184657405	Marionette	INFO	Listening on port 60952
+1617184657492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184682055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617184683245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617184685337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:331:29
+
+1617184696628	Marionette	INFO	Stopped listening on port 60952
+1617184698508	geckodriver	INFO	Listening on 127.0.0.1:61102
+1617184701562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilefwfoyk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184703769	Marionette	INFO	Listening on port 61114
+1617184704231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184737476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617184755661	Marionette	INFO	Stopped listening on port 61114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617184758921	geckodriver	INFO	Listening on 127.0.0.1:61323
+1617184762014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilePnt1X7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184764081	Marionette	INFO	Listening on port 61335
+1617184764170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184785970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617184862519	Marionette	INFO	Stopped listening on port 61335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617184865445	geckodriver	INFO	Listening on 127.0.0.1:61544
+1617184868533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileISlP5P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184870560	Marionette	INFO	Listening on port 61554
+1617184870610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184897678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:331:29
+
+1617184906918	Marionette	INFO	Stopped listening on port 61554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617184909924	geckodriver	INFO	Listening on 127.0.0.1:61715
+1617184912998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileo1P8Dw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184914881	Marionette	INFO	Listening on port 61727
+1617184915048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184947652	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617184966161	Marionette	INFO	Stopped listening on port 61727
+1617184968411	geckodriver	INFO	Listening on 127.0.0.1:61914
+1617184971484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileoCxtZT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617184973452	Marionette	INFO	Listening on port 61926
+1617184973530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617184998663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617185027406	Marionette	INFO	Stopped listening on port 61926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617185029636	geckodriver	INFO	Listening on 127.0.0.1:62094
+1617185032736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilexi9r2L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185034880	Marionette	INFO	Listening on port 62105
+1617185035398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185060828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617185101952	Marionette	INFO	Stopped listening on port 62105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617185105558	geckodriver	INFO	Listening on 127.0.0.1:62300
+1617185108639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileiiUxyZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185110680	Marionette	INFO	Listening on port 62315
+1617185110790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185139012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+1617185201295	Marionette	INFO	Stopped listening on port 62315
+1617185282111	geckodriver	INFO	Listening on 127.0.0.1:62581
+1617185285167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileZKmk19"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185287072	Marionette	INFO	Listening on port 62595
+1617185287219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185312097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617185335804	Marionette	INFO	Stopped listening on port 62595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617185377067	geckodriver	INFO	Listening on 127.0.0.1:62808
+1617185380112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile7fP7tI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185382361	Marionette	INFO	Listening on port 62824
+1617185382778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185411624	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617185467655	Marionette	INFO	Stopped listening on port 62824
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617185469979	geckodriver	INFO	Listening on 127.0.0.1:63033
+1617185473089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileny7ny4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185475121	Marionette	INFO	Listening on port 63048
+1617185475147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185500507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617185636002	Marionette	INFO	Stopped listening on port 63048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617185638279	geckodriver	INFO	Listening on 127.0.0.1:63328
+1617185641349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile0NvpiI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617185643296	Marionette	INFO	Listening on port 63342
+1617185643429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617185669090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617195664310	Marionette	INFO	Stopped listening on port 63342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PGPU::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+\nadth\\AppData\\Local\\Temp\\rust_mozprofileNTwpSu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617193813288	Marionette	INFO	Listening on port 62070
+1617193813666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617193849075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617193881138	Marionette	INFO	Stopped listening on port 62070
+1617193884470	geckodriver	INFO	Listening on 127.0.0.1:62265
+1617193887600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilefZ7FwN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617193890122	Marionette	INFO	Listening on port 62278
+1617193890288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617193924565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.hotjar.com/c/hotjar-1511557.js?sv=6, line 3: NS_ERROR_NOT_INITIALIZED: 
+1617193977144	Marionette	INFO	Stopped listening on port 62278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617193980006	geckodriver	INFO	Listening on 127.0.0.1:62483
+1617193983069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile0GpntM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617193985584	Marionette	INFO	Listening on port 62494
+1617193985786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617194018564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617194147433	Marionette	INFO	Stopped listening on port 62494
+7194140033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileuFmX8o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617194142404	Marionette	INFO	Listening on port 62759
+1617194142718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617194173846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617194493362	Marionette	INFO	Stopped listening on port 62759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileH4Mjmb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617194491813	Marionette	INFO	Listening on port 63164
+1617194492212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617194526210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617195660709	Marionette	INFO	Stopped listening on port 63164
+1617240145853	geckodriver	INFO	Listening on 127.0.0.1:53398
+1617240148903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilevLJzPS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617240152560	Marionette	INFO	Listening on port 53432
+1617240152617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617240175294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 18624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617244051315	Marionette	INFO	Stopped listening on port 53432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617246786302	geckodriver	INFO	Listening on 127.0.0.1:65284
+1617246789370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileDlikwx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617246791970	Marionette	INFO	Listening on port 65293
+1617246792040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617246819035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617247890711	Marionette	INFO	Stopped listening on port 65293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilecNicSe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617246926472	Marionette	INFO	Listening on port 65490
+1617246926999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617246955985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617247874119	Marionette	INFO	Stopped listening on port 65490
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileSZMU8z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617247329128	Marionette	INFO	Listening on port 49398
+1617247329513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617247360987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617247436435	Marionette	INFO	Stopped listening on port 49398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617247870564	geckodriver	INFO	Listening on 127.0.0.1:49947
+1617247873601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileX7gfLG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617247875902	Marionette	INFO	Listening on port 49959
+1617247876267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617247908933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617247909928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617247915280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617247925015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617247967625	Marionette	INFO	Stopped listening on port 49959
+1617247970624	geckodriver	INFO	Listening on 127.0.0.1:50139
+1617247973717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileZyEYPv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617247975831	Marionette	INFO	Listening on port 50150
+1617247975884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617248101692	Marionette	INFO	Stopped listening on port 50150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617248103859	geckodriver	INFO	Listening on 127.0.0.1:50286
+1617248106924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileYztUHi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617248108985	Marionette	INFO	Listening on port 50300
+1617248109072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617248131403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248132381	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248134462	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617248144749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248147940	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248148670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617248154540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248157396	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617249924801	Marionette	INFO	Stopped listening on port 50300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofilemSzAPJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617248332751	Marionette	INFO	Listening on port 50492
+1617248332904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617248357593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248358599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248363023	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248376213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617248377208	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617249631075	Marionette	INFO	Stopped listening on port 50492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileXqCuY8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617248682702	Marionette	INFO	Listening on port 50705
+1617248683140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617248704565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617249629036	Marionette	INFO	Stopped listening on port 50705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617249909231	geckodriver	INFO	Listening on 127.0.0.1:51182
+1617249912267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileOrWs3P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617249914423	Marionette	INFO	Listening on port 51193
+1617249914938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617249935847	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617250511779	Marionette	INFO	Stopped listening on port 51193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617250516920	geckodriver	INFO	Listening on 127.0.0.1:51490
+1617250519989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile3eg22b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617250522158	Marionette	INFO	Listening on port 51502
+1617250522659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617250548902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1617256459300	geckodriver	INFO	Listening on 127.0.0.1:50778
+1617256462391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileMCOanb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617256465591	Marionette	INFO	Listening on port 50787
+1617256466122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617256509439	Marionette	INFO	Stopped listening on port 50787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617256540761	geckodriver	INFO	Listening on 127.0.0.1:50962
+1617256543888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileG1bLGg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617256546484	Marionette	INFO	Listening on port 50972
+1617256546578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617256616988	Marionette	INFO	Stopped listening on port 50972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617256658848	geckodriver	INFO	Listening on 127.0.0.1:51133
+1617256661979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofiletRjMER"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617256664411	Marionette	INFO	Listening on port 51142
+1617256664672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617256729528	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617256904542	Marionette	INFO	Stopped listening on port 51142
+1617262404295	geckodriver	INFO	Listening on 127.0.0.1:57810
+1617262407393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilejb4Sxg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617262410045	Marionette	INFO	Listening on port 57819
+1617262410121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617262438436	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617262594311	Marionette	INFO	Stopped listening on port 57819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617778194731	geckodriver	INFO	Listening on 127.0.0.1:52472
+1617778197770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileGL0wYH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617778200151	Marionette	INFO	Listening on port 52486
+1617778200439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617778251386	Marionette	INFO	Stopped listening on port 52486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilelUEkKL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617778248331	Marionette	INFO	Listening on port 52609
+1617778248574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617778272410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617780408059	Marionette	INFO	Stopped listening on port 52609
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617855590366	geckodriver	INFO	Listening on 127.0.0.1:64543
+1617855593479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile7ORFvr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617855596103	Marionette	INFO	Listening on port 64558
+1617855596158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617855627740	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617855672226	Marionette	INFO	Stopped listening on port 64551617855672585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileALxq0W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617855675414	Marionette	INFO	Listening on port 64788
+1617855675792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617855715689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://static.hotjar.com/c/hotjar-1511557.js?sv=6, line 3: NS_ERROR_NOT_INITIALIZED: 
+1617858106494	Marionette	INFO	Stopped listening on port 64788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617858114843	geckodriver	INFO	Listening on 127.0.0.1:51969
+1617858117970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileFanohq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617858120971	Marionette	INFO	Listening on port 51982
+1617858121201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617858251421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+1617858368319	Marionette	INFO	Stopped listening on port 51982
+1617858370956	geckodriver	INFO	Listening on 127.0.0.1:52236
+1617858374068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileT1SWWt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617858376679	Marionette	INFO	Listening on port 52249
+1617858376754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617858551356	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1617858680287	Marionette	INFO	Stopped listening on port 52249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617858683490	geckodriver	INFO	Listening on 127.0.0.1:58816
+1617858686610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile4ezz9b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617858689460	Marionette	INFO	Listening on port 58829
+1617858689817	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617858773006	Marionette	INFO	Stopped listening on port 58829
+1617858785813	geckodriver	INFO	Listening on 127.0.0.1:55854
+1617858788884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilegPERYP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617858791502	Marionette	INFO	Listening on port 55870
+1617858791561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617858824660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617859734515	Marionette	INFO	Stopped listening on port 55870
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile3Qxnrx"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617859739484	geckodriver	INFO	Listening on 127.0.0.1:56371
+1617859742523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilee69AaT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617859744904	Marionette	INFO	Listening on port 56382
+1617859745210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617859777982	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn1.child3/domwalker26, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:114:18\nstop@resource://devtools/client/inspector/node-picker.js:174:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3718:24\ndestroy@resource://devtools/client/framework/toolbox.js:3652:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3628:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617869212988	Marionette	INFO	Stopped listening on port 56382
+1617880657843	geckodriver	INFO	Listening on 127.0.0.1:56593
+1617880660936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileWxESYa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617880664796	Marionette	INFO	Listening on port 56602
+1617880665162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617880729460	Marionette	INFO	Stopped listening on port 56602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617880733483	geckodriver	INFO	Listening on 127.0.0.1:56910
+1617880736590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile8ElFfi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617880739963	Marionette	INFO	Listening on port 56924
+1617880740322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617880766563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617881347510	Marionette	INFO	Stopped listening on port 56924
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofileDwNa6u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617881350767	Marionette	INFO	Listening on port 57351
+1617881351212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617881381462	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+1617884137800	Marionette	INFO	Stopped listening on port 57351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617938507402	geckodriver	INFO	Listening on 127.0.0.1:64291
+1617938510459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofilec6CXlv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617938513267	Marionette	INFO	Listening on port 64305
+1617938513648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617938771180	Marionette	INFO	Stopped listening on port 64305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617938774374	geckodriver	INFO	Listening on 127.0.0.1:64633
+1617938777447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile9Kken8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617938779814	Marionette	INFO	Listening on port 64666
+1617938780131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617938837011	Marionette	INFO	Stopped listening on port 64666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617938839612	geckodriver	INFO	Listening on 127.0.0.1:64814
+1617938842659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofiledbIPyD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617938844790	Marionette	INFO	Listening on port 64826
+1617938844831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617938873744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+JavaScript error: http://portal.dev.getzense.com/dashboard, line 1: ReferenceError: hideShowUserMenu is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0157,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+1617965547019	geckodriver	INFO	Listening on 127.0.0.1:56573
+1617965550034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nadth\\AppData\\Local\\Temp\\rust_mozprofile2SFLo7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617965555341	Marionette	INFO	Listening on port 56598
+1617965555651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617965575972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 4: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+JavaScript warning: http://portal.dev.getzense.com/js/borrower/pages/kyc/kyc.js?id=8eb00fbdef30c91d5de6 line 141 > eval, line 3: unreachable code after return statement
+[Parent 4932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617965799773	Marionette	INFO	Stopped listening on port 56598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

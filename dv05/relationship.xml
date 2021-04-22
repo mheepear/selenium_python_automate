@@ -1,0 +1,12 @@
+<RELATIONSHIPS>
+							<RELATIONSHIP SequenceNumber="1" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_1" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="2" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_2" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="3" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_3" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="4" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_4" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="5" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_5" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="6" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ASSET_IsAssociatedWith_ROLE" xlink:from="ASSET_6" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="7" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_1" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="8" xlink:arcrole="urn:fdc:mismo.org:2009:residential/LIABILITY_IsAssociatedWith_ROLE" xlink:from="LIABILITY_2" xlink:to="BORROWER_1"/>
+							<RELATIONSHIP SequenceNumber="9" xlink:arcrole="urn:fdc:mismo.org:2009:residential/CURRENT_INCOME_ITEM_IsAssociatedWith_EMPLOYER" xlink:from="CURRENT_INCOME_ITEM_1" xlink:to="EMPLOYER_1"/>
+							<RELATIONSHIP SequenceNumber="10" xlink:arcrole="urn:fdc:mismo.org:2009:residential/ROLE_IsAssociatedWith_SERVICE" xlink:from="BORROWER_1" xlink:to="SERVICE_1"/>
+						</RELATIONSHIPS>
